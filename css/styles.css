@@ -78,6 +78,6 @@ footer {
 .author-img {
     border: 1px solid #eee;
     margin-bottom: 10px;
-    padding-top: 10px;
-    padding-left: 13px;
+    margin-bottom: 10px;
+    padding: 10px 13px;
 }
