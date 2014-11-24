@@ -75,3 +75,8 @@ footer {
     line-height: 13px;
     height: 60px;
 }
+.author-img {
+    border: 1px solid #eee;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
